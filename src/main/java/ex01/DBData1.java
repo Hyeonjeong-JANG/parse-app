@@ -11,6 +11,8 @@ public class DBData1 {
     private int boardId;
     private String title;
     private String content;
+
+    // User
     private int userId;
     private String username;
     private String email;
